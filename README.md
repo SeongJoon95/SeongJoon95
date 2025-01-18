@@ -1,16 +1,12 @@
-## Hi there 👋
+## 성실하게 꾸준히 개발하는 개발자 안성준 입니다. 👋
 
-<!--
-**SeongJoon95/SeongJoon95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔎 ABOUT ME
+---
+- 새로운 기술을 배우는데 있어서 늘 긍정적인 자세로 임해요.
+- 개발 과정에서 항상 사용자의 입장을 먼저 생각해요.
+- 안되면 될때까지 하는 근성과 끈기가 있어요.
+- 꾸준히 공부하며 항상 성장하려고 노력해요.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨🏻‍💻 SKILLS
+Java Spring Boot React MySQL
+AWS
