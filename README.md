@@ -8,6 +8,4 @@
 - 꾸준히 공부하며 항상 성장하려고 노력해요.
 
 ### 👨🏻‍💻 SKILLS
-[Java ](https://camo.githubusercontent.com/eef8c344f8babfb25816f876ff4f60e7cdfe2d1760db131adc890e50ba66ac37/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)
-Spring Boot React MySQL
-AWS
+Java, Spring Boot, React, MySQL, AWS, TypeScript
